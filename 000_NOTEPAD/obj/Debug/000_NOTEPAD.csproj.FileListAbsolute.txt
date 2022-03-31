@@ -1,0 +1,17 @@
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\bin\Debug\000_NOTEPAD.exe.config
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\bin\Debug\000_NOTEPAD.exe
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\bin\Debug\000_NOTEPAD.pdb
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.csprojAssemblyReference.cache
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\MainWindow.g.cs
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\App.g.cs
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD_MarkupCompile.cache
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD_MarkupCompile.lref
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\MainWindow.baml
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.g.resources
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\_000_NOTEPAD.Properties.Resources.resources
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.csproj.GenerateResource.cache
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.csproj.CoreCompileInputs.cache
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.exe
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\000_NOTEPAD.pdb
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\DialogKey.g.cs
+C:\Users\3cp_1\Desktop\PROGRAMMING\WPF\000_NOTEPAD\000_NOTEPAD\obj\Debug\DialogKey.baml
