@@ -1,2 +1,2 @@
 # notepad
-Notatnik napisany w technologii WPF. Jednąz jego funkcji jest szyfrowanie wpisanego tekstu oraz odszyfrowywanie.
+Notatnik napisany w technologii WPF. Jedną z jego funkcji jest szyfrowanie wpisanego tekstu oraz odszyfrowywanie.
